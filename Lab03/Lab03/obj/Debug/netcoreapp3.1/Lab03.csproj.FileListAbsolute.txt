@@ -1,0 +1,14 @@
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.exe
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.deps.json
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.runtimeconfig.json
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.runtimeconfig.dev.json
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.dll
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.pdb
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.csproj.AssemblyReference.cache
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.AssemblyInfoInputs.cache
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.AssemblyInfo.cs
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.csproj.CoreCompileInputs.cache
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.dll
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.pdb
+D:\Лабораторные\3 семестр\ООП\OOP-Labs-3-sem\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.genruntimeconfig.cache
