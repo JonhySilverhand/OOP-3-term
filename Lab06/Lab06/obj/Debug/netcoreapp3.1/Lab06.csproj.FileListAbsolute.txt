@@ -1,0 +1,16 @@
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.csproj.AssemblyReference.cache
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.AssemblyInfoInputs.cache
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.AssemblyInfo.cs
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.csproj.CoreCompileInputs.cache
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.exe
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.deps.json
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.runtimeconfig.json
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.runtimeconfig.dev.json
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.dll
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.pdb
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.csproj.CopyComplete
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.dll
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.pdb
+D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.genruntimeconfig.cache
