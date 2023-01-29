@@ -1,0 +1,1 @@
+{"$type":"System.Collections.Generic.List`1[[Lab13.Confectionery, Lab13]], System.Private.CoreLib","$values":[{"$type":"Lab13.Candy, Lab13","TypeCandy":null,"Name":"Столичная"},{"$type":"Lab13.ChocolateCandy, Lab13","TypeCandy":"Шоколадная конфета","Name":"AlpenGold"},{"$type":"Lab13.BoxOfChocolates, Lab13","Name":"Bonjour"}]}

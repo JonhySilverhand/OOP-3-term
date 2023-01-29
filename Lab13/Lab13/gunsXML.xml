@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<storage>
+  <weapon type="pistol">
+    <name>TT </name>
+    <caliber>7.62mm</caliber>
+  </weapon>
+  <weapon type="rifle">
+    <name>AK-74m </name>
+    <caliber>5.45mm</caliber>
+  </weapon>
+  <weapon type="pistol">
+    <name>Glock-17 </name>
+    <caliber>9mm</caliber>
+  </weapon>
+  <weapon type="sniper rifle">
+    <name>СВД-с </name>
+    <caliber>7.62mm</caliber>
+  </weapon>
+  <weapon type="shotgun">
+    <name>MP-153 </name>
+    <caliber>12mm</caliber>
+  </weapon>
+</storage>
