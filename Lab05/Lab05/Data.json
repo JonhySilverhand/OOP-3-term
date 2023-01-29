@@ -1,0 +1,27 @@
+[
+  {
+    "$type": "Lab05.Caramel, Lab05",
+    "Name": "Roshen",
+    "SugarCost": 40
+  },
+  {
+    "$type": "Lab05.BoxOfChocolates, Lab05",
+    "Name": "Коробка конфет",
+    "SugarCost": 310
+  },
+  {
+    "$type": "Lab05.Cookie, Lab05",
+    "Name": "Печенюшка",
+    "SugarCost": 11
+  },
+  {
+    "$type": "Lab05.ChocolateCandy, Lab05",
+    "Name": "AlpenGold",
+    "SugarCost": 52
+  },
+  {
+    "$type": "Lab05.Candy, Lab05",
+    "Name": "Конфета",
+    "SugarCost": 23
+  }
+]
