@@ -1,0 +1,57 @@
+---------13.10.2022 16:42:58---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------13.10.2022 16:43:26---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------13.10.2022 16:44:05---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------13.10.2022 16:44:15---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------13.10.2022 16:44:15---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------13.10.2022 16:44:26---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------13.10.2022 16:44:26---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------15.10.2022 14:51:15---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------15.10.2022 14:51:15---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------15.10.2022 14:52:14---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------15.10.2022 14:52:14---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------15.10.2022 15:17:31---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------15.10.2022 15:17:31---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------15.10.2022 15:42:43---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------15.10.2022 15:42:43---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------15.10.2022 15:43:35---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------15.10.2022 15:43:35---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
+---------29.10.2022 14:44:53---------
+TYPE: System.ArgumentException
+INFO: Value does not fall within the expected range.
+---------29.10.2022 14:44:53---------
+TYPE: System.IO.FileNotFoundException
+INFO: Could not find file 'D:\Лабораторные\3_семестр\ООП\Lab06\Lab06\Data.json'.
