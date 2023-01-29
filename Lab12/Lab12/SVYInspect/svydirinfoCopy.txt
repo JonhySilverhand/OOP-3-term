@@ -1,0 +1,55 @@
+Список папок:
+D:\$RECYCLE.BIN
+D:\.minecraft
+D:\111111
+D:\Adobe
+D:\Alexis Persani
+D:\Android
+D:\Brackets
+D:\Counter-Strike 1.6 Russian
+D:\Epicgames
+D:\flash
+D:\FunnyPaws-main
+D:\GIT
+D:\GitHub
+D:\iCalculator
+D:\iCalculator_Pro_Max-main
+D:\Inellij IDEA
+D:\j6wq04ww
+D:\Laba 10 (3)
+D:\menu
+D:\Microsoft
+D:\Microsoft Visual Studio
+D:\Microsoft VS Code
+D:\MultiSim
+D:\National Instruments
+D:\NetCrackerPro4.1
+D:\New papka
+D:\NILicenseActivator1.2
+D:\papka
+D:\Polyspace
+D:\Practice
+D:\Reloader
+D:\Ruby
+D:\Sk
+D:\slide-side-panel
+D:\slide-side-panel1
+D:\steam
+D:\System Volume Information
+D:\TaskbarX_1.7.8.0_x64
+D:\Telegram
+D:\Vector
+D:\VirtMashine
+D:\VirtualOracle
+D:\Visual Studio (инструменты)
+D:\WebStorm
+D:\Бярэзински заповедник
+D:\Другие файлы
+D:\КСиС
+D:\кэш visual studio
+D:\Лабораторные
+D:\Мой сайт(Курсовой проект)
+D:\ОВУ 2015
+D:\СВоенКафедры4
+Список файлов:
+D:\2 курс ПОИТ.zip
