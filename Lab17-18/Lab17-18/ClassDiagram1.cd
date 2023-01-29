@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab17_18.EditionFactory" BaseTypeListCollapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\BuilderEdition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab17_18.AuthorsEdition">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Builder\BuilderEdition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.BuilderEdition">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAQAAA=</HashCode>
+      <FileName>Builder\BuilderEdition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.JournalBuilder">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAQAAA=</HashCode>
+      <FileName>Builder\BuilderEdition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Administrator">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\BuilderEdition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Admin">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAIAAAIAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Edition">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAABQAAAAAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Edition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Author">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Edition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Payment">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAABAAAAAAAAABAAAAQAAAABA=</HashCode>
+      <FileName>Classes\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Reader">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAAAAAAAAQAAEAQAAAIAAAAAAAAABA=</HashCode>
+      <FileName>Classes\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Subscription">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAIAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Classes\Subscription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Singleton">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAQAAAAAAAACADAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Singleton\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab17_18.Prototype">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Prototype\Prototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab17_18.AbstractFactory">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\BuilderEdition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
