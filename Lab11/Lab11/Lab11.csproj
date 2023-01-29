@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lab07">
+      <HintPath>..\..\Lab07\Lab07\bin\Debug\netcoreapp3.1\Lab07.dll</HintPath>
+    </Reference>
+    <Reference Include="Lab10">
+      <HintPath>..\..\Lab10\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
